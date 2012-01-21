@@ -1,3 +1,9 @@
+-- Bank OCR code kata
+-- 
+-- http://codingdojo.org/cgi-bin/wiki.pl?KataBankOCR
+--
+-- Solution by Aur Saraf
+
 import Data.List
 import Data.Maybe
 import Control.Arrow
